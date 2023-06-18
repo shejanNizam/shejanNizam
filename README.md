@@ -1,14 +1,13 @@
-(https://i.ibb.co/GpFnPZ9/Banner.png)
 <h1 align="center">Hi 👋, I'm Nizam Uddin Shejan</h1>
-<h3 align="center">Junior Web Developer</h3>
+<h3 align="center">Junior MERN Stack Developer</h3>
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **React.JS, NEXT.JS**
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, ES6, React.JS, Node.JS, Express.JS, MongoDB.**
 
 - 📫 How to reach me **nizam.shejan11@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Z8SGxHTOVaZM4WE_vnxkDgwd0DqS70fZ/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Z8SGxHTOVaZM4WE_vnxkDgwd0DqS70fZ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
