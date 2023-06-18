@@ -1,3 +1,4 @@
+(https://i.ibb.co/GpFnPZ9/Banner.png)
 <h1 align="center">Hi 👋, I'm Nizam Uddin Shejan</h1>
 <h3 align="center">Junior Web Developer</h3>
 
