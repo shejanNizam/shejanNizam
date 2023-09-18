@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **nizam.shejan11@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1Z8SGxHTOVaZM4WE_vnxkDgwd0DqS70fZ/view?usp=drive_link](https://drive.google.com/drive/folders/1goQP3SLmd1FZzqUM-KO7jbGC7ZmOHfSM))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
