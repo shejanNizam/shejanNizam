@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nizam Uddin (Shejan) </h1>
 <h3 align="center">React Developer</h3>
 
-- 🌱 I’m currently learning **React.JS, NEXT.JS**
+- 🌱 I’m currently learning **React.JS, Redux, NEXT.JS**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, ES6, React.JS, Node.JS, Express.JS, MongoDB, NEXT.JS.**
+- 💬 Ask me about **JavaScript, ES6, React.JS, Redux, NEXT.JS, Node.JS, Express.JS, MongoDB.**
 
 - 📫 How to reach me **nizam.shejan11@gmail.com**
 
