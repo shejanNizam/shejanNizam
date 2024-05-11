@@ -10,7 +10,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/nizam-uddin-shejan//" target="_blank" rel="noreferrer"> <img src="img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'" alt="linkedIn" width="40" height="40"/> </a>
+ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nizam-uddin-shejan//) 
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
