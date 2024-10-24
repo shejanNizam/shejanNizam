@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nizam Uddin (Shejan) </h1>
-<h3 align="center">React Developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 - 🌱 I’m currently learning **React.JS, Redux, NEXT.JS, TypeScript**
 
