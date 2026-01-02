@@ -71,14 +71,11 @@ I enjoy turning ideas into real-world applications and continuously sharpening m
 - Stripe & secure payment integration  
 - Authentication & Authorization best practices (JWT, OAuth)
 
-
-
 ### 🚀 Featured Projects
 - **Role-Based Dashboard** – React, Redux, Tailwind, dynamic sidebar & access control  
 - **Expense Tracker App** – React → Redux migration, CRUD, analytics  
 - **Auth System** – JWT authentication, role-based authorization, MongoDB  
 - **Production Management App** – MERN stack, admin & manager workflows  
-
 
 ### 💬 Ask Me About
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
@@ -91,11 +88,8 @@ I enjoy turning ideas into real-world applications and continuously sharpening m
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) 
 
-
-
 ### 📫 How to Reach Me
 📧 **Email:** nizam.shejan11@gmail.com  
-
 
 ### ☕ Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shejanNizam)
@@ -105,7 +99,6 @@ I enjoy turning ideas into real-world applications and continuously sharpening m
 
 
 ### 📊 GitHub Stats
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=shejanNizam&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shejanNizam&layout=compact&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shejanNizam&layout=compact&theme=tokyonight)
+
