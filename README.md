@@ -5,7 +5,7 @@
 ### Full Stack(MERN) Developer  
 
 
-### 🛠 Tech Stack
+  ### 🛠 Tech Stack
 
 #### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -55,7 +55,7 @@ Currently deepening my skills in **Advanced React patterns, Redux Toolkit, Next.
 I enjoy turning ideas into real-world applications and continuously sharpening my problem-solving skills.
 
 
-### 🌱 Currently Improving
+  ### 🌱 Currently Improving
 
 #### Frontend
 - Advanced React patterns & performance optimization  
@@ -72,11 +72,6 @@ I enjoy turning ideas into real-world applications and continuously sharpening m
 - Stripe & secure payment integration  
 - Authentication & Authorization best practices (JWT, OAuth)
 
-### 🚀 Featured Projects
-- **Website** – Next.js, Redux & RTK Query, Tailwind, Ant Design, responsive design, Login, Signup
-- **Role-Based Admin Dashboard** – React, Redux & RTK Query, Tailwind, dynamic sidebar & access control
- **Auth System** – JWT authentication, role-based authorization, MongoDB
-
   ### 🚀 Featured Projects
 
 - **Website** – Built with Next.js, Redux Toolkit & RTK Query, Tailwind CSS, Ant Design. Includes fully responsive UI, authentication (Login & Signup), and optimized state management.
@@ -84,17 +79,17 @@ I enjoy turning ideas into real-world applications and continuously sharpening m
 - **Authentication System** – Secure backend authentication system with JWT, role-based authorization, and MongoDB for user management.
 
 
-### 📫 How to Reach Me
+  ### 📫 How to Reach Me
 📧 **Email:** nizam.shejan11@gmail.com  
 
-### ☕ Connect With Me
+  ### ☕ Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shejanNizam)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nizam-uddin-shejan)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shejanNizam/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nizam_shejan11)
 
 
-### 📊 GitHub Stats
+  ### 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=shejanNizam&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shejanNizam&layout=compact&theme=tokyonight)
 
