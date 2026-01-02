@@ -1,11 +1,8 @@
-<h2 align="center">
+<h2>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Hey! Nice to see you.
+  ### 👋 Hi there, I'm **Nizam Uddin (Shejan)**
 </h2>
-
-### 👋 Hi there, I'm **Nizam Uddin (Shejan)**
-#### MERN Stack Developer  
-![](https://komarev.com/ghpvc/?username=shejanNizam)
+#### Full Stack(MERN) Developer  
 
 ## 🛠 Tech Stack
 
