@@ -74,11 +74,6 @@ I enjoy turning ideas into real-world applications and continuously sharpening m
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) 
 
 
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anikahammedkhan&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anikahammedkhan&hide=scss&layout=compact&theme=tokyonight)
-
-
 ---
 
 ## 📫 How to Reach Me
