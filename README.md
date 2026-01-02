@@ -4,9 +4,9 @@
 
 ### Full Stack(MERN) Developer  
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-### Frontend
+#### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-0081CB?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -19,7 +19,7 @@
 ![Material-UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-### Backend
+#### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -28,7 +28,7 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
-### Tools & Platforms
+#### Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -54,16 +54,16 @@ Currently deepening my skills in **Advanced React patterns, Redux Toolkit, Next.
 I enjoy turning ideas into real-world applications and continuously sharpening my problem-solving skills.
 
 
-## 🌱 Currently Improving
+### 🌱 Currently Improving
 
-### Frontend
+#### Frontend
 - Advanced React patterns & performance optimization  
 - Redux Toolkit & scalable state architecture  
 - Next.js (App Router, SSR/SSG, and performance)  
 - TypeScript best practices  
 - UI Libraries: Ant Design, Material-UI, Shadcn/UI, Framer Motion  
 
-### Backend
+#### Backend
 - Node.js & Express.js advanced concepts  
 - REST API & GraphQL design  
 - MongoDB & Mongoose advanced queries  
@@ -73,14 +73,14 @@ I enjoy turning ideas into real-world applications and continuously sharpening m
 
 
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 - **Role-Based Dashboard** – React, Redux, Tailwind, dynamic sidebar & access control  
 - **Expense Tracker App** – React → Redux migration, CRUD, analytics  
 - **Auth System** – JWT authentication, role-based authorization, MongoDB  
 - **Production Management App** – MERN stack, admin & manager workflows  
 
 
-## 💬 Ask Me About
+### 💬 Ask Me About
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
@@ -93,18 +93,18 @@ I enjoy turning ideas into real-world applications and continuously sharpening m
 
 
 
-## 📫 How to Reach Me
+### 📫 How to Reach Me
 📧 **Email:** nizam.shejan11@gmail.com  
 
 
-## ☕ Connect With Me
+### ☕ Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shejanNizam)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nizam-uddin-shejan)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shejanNizam/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nizam_shejan11)
 
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shejanNizam&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shejanNizam&layout=compact&theme=tokyonight)
