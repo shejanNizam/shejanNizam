@@ -106,7 +106,7 @@ I enjoy turning ideas into real-world applications and continuously sharpening m
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shejannizam&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shejannizam&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shejanNizam&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shejanNizam&layout=compact&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shejannizam&show_icons=true&locale=en&layout=compact" alt="shejannizam" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shejanNizam&show_icons=true&locale=en&layout=compact" alt="shejannizam" /></p>
