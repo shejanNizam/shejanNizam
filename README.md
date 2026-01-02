@@ -59,22 +59,21 @@ I have **1+ years of professional frontend experience** with strong hands-on bac
 - Redux Toolkit & scalable state architecture  
 - Next.js (App Router, SSR/SSG, and performance)  
 - TypeScript best practices  
-- Component-driven UI systems & animation (Ant Design, MUI, Shadcn/UI, Framer Motion)  
+- Component-driven UI systems & animation (Ant Design, MUI, Shadcn/UI, Framer Motion)
 
 #### Backend
 - Node.js & Express.js advanced concepts
-- REST API & GraphQL design  
-- MongoDB & Mongoose advanced queries  
-- Firebase & serverless architecture  
-- Stripe & secure payment integration  
+- REST API & GraphQL design
+- MongoDB & Mongoose advanced queries
+- Firebase & serverless architecture
+- Stripe & secure payment integration
 - Authentication & Authorization best practices (JWT, OAuth)
 
-  ### 🚀 Featured Projects
+### 🚀 Featured Projects
 
 - **Website** – Built with Next.js, Redux Toolkit & RTK Query, Tailwind CSS, Ant Design. Includes fully responsive UI, authentication (Login & Signup), and optimized state management.
 - **Role-Based Admin Dashboard** – React dashboard with Redux Toolkit & RTK Query, dynamic sidebar, and role-based access control supporting 4 user roles with protected routes and permissions.
 - **Authentication System** – Secure backend authentication system with JWT, role-based authorization, and MongoDB for user management.
-
 
   ### 📫 How to Reach Me
 📧 **Email:** nizam.shejan11@gmail.com  
