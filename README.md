@@ -1,8 +1,9 @@
 <h2>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  ### 👋 Hi there, I'm **Nizam Uddin (Shejan)**
+  👋 Hi there, I'm Nizam Uddin (Shejan)
 </h2>
-#### Full Stack(MERN) Developer  
+
+### Full Stack(MERN) Developer  
 
 ## 🛠 Tech Stack
 
