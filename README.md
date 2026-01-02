@@ -9,13 +9,10 @@
 ### MERN Stack Developer  
 ![](https://komarev.com/ghpvc/?username=shejanNizam)
 
-I’m a **Full Stack (MERN) Developer** who designs and builds modern, scalable, and user-friendly web applications.  
-I have **1+ years of professional frontend experience** and hands-on backend development experience, building real-world applications with clean architecture and performance in mind.
-
-I enjoy turning ideas into production-ready solutions and continuously improving my problem-solving and system-design skills.
-
 As a **Full Stack (MERN) Developer** I design and develop modern, scalable, and user-friendly web applications that integrate seamlessly with backend services. 
+
 I have **1+ years of professional frontend experience** and hands-on backend development experience, using Javascript, Typescript, React.js, Next.js, Tailwindcss, Ant Design, Shadcn, Framer Motion, Node.js, Express.js, MongoDB, Mongoose, Firebase, Stripe to build scalable and efficient solutions.
+
 Currently deepening my skills in **Advanced React patterns, Redux Toolkit, Next.js, and TypeScript**, while working with **Node.js, Express.js, MongoDB, Mongoose** on the backend. 
 I enjoy turning ideas into real-world applications and continuously sharpening my problem-solving skills.
 
