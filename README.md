@@ -41,8 +41,8 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-## 👋 Hi there, I'm **Nizam Uddin (Shejan)**
-### MERN Stack Developer  
+### 👋 Hi there, I'm **Nizam Uddin (Shejan)**
+#### MERN Stack Developer  
 ![](https://komarev.com/ghpvc/?username=shejanNizam)
 
 As a **Full Stack (MERN) Developer** I design and develop modern, scalable, and user-friendly web applications that integrate seamlessly with backend services. 
