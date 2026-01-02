@@ -3,8 +3,6 @@
   Hey! Nice to see you.
 </h1>
 
----
-
 ## 👋 Hi there, I'm **Nizam Uddin (Shejan)**
 ### MERN Stack Developer  
 ![](https://komarev.com/ghpvc/?username=shejanNizam)
