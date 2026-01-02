@@ -1,22 +1,7 @@
-<h1 align="center">
+<h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   Hey! Nice to see you.
 </h1>
-
-## 👋 Hi there, I'm **Nizam Uddin (Shejan)**
-### MERN Stack Developer  
-![](https://komarev.com/ghpvc/?username=shejanNizam)
-
-As a **Full Stack (MERN) Developer** I design and develop modern, scalable, and user-friendly web applications that integrate seamlessly with backend services. 
-
-I have **1+ years of professional frontend experience** and hands-on backend development experience, using Javascript, Typescript, React.js, Next.js, Tailwindcss, Ant Design, Shadcn, Framer Motion, Node.js, Express.js, MongoDB, Mongoose, Firebase, Stripe to build scalable and efficient solutions.
-
-Currently deepening my skills in **Advanced React patterns, Redux Toolkit, Next.js, and TypeScript**, while working with **Node.js, Express.js, MongoDB, Mongoose** on the backend. 
-I enjoy turning ideas into real-world applications and continuously sharpening my problem-solving skills.
-
-
-
----
 
 ## 🛠 Tech Stack
 
@@ -56,7 +41,17 @@ I enjoy turning ideas into real-world applications and continuously sharpening m
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
----
+## 👋 Hi there, I'm **Nizam Uddin (Shejan)**
+### MERN Stack Developer  
+![](https://komarev.com/ghpvc/?username=shejanNizam)
+
+As a **Full Stack (MERN) Developer** I design and develop modern, scalable, and user-friendly web applications that integrate seamlessly with backend services. 
+
+I have **1+ years of professional frontend experience** and hands-on backend development experience, using Javascript, Typescript, React.js, Next.js, Tailwindcss, Ant Design, Shadcn, Framer Motion, Node.js, Express.js, MongoDB, Mongoose, Firebase, Stripe to build scalable and efficient solutions.
+
+Currently deepening my skills in **Advanced React patterns, Redux Toolkit, Next.js, and TypeScript**, while working with **Node.js, Express.js, MongoDB, Mongoose** on the backend. 
+I enjoy turning ideas into real-world applications and continuously sharpening my problem-solving skills.
+
 
 ## 🌱 Currently Improving
 - Advanced React patterns  
@@ -64,7 +59,6 @@ I enjoy turning ideas into real-world applications and continuously sharpening m
 - Next.js (App Router & performance)  
 - TypeScript best practices  
 
----
 
 ## 🚀 Featured Projects
 - **Role-Based Dashboard** – React, Redux, Tailwind, dynamic sidebar & access control  
@@ -72,7 +66,6 @@ I enjoy turning ideas into real-world applications and continuously sharpening m
 - **Auth System** – JWT authentication, role-based authorization, MongoDB  
 - **Production Management App** – MERN stack, admin & manager workflows  
 
----
 
 ## 💬 Ask Me About
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
@@ -86,12 +79,10 @@ I enjoy turning ideas into real-world applications and continuously sharpening m
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) 
 
 
----
 
 ## 📫 How to Reach Me
 📧 **Email:** nizam.shejan11@gmail.com  
 
----
 
 ## ☕ Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shejanNizam)
@@ -99,7 +90,6 @@ I enjoy turning ideas into real-world applications and continuously sharpening m
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shejanNizam/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nizam_shejan11)
 
----
 
 ## 📊 GitHub Stats
 
