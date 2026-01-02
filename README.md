@@ -4,7 +4,9 @@
 
 ### Full Stack(MERN) Developer  
 
-### 🛠 Tech Stack
+<h3>  
+  🛠 Tech Stack
+</h3>
 
 #### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
