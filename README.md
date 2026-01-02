@@ -62,7 +62,7 @@ I have **1+ years of professional frontend experience** with strong hands-on bac
 - Component-driven UI systems & animation (Ant Design, MUI, Shadcn/UI, Framer Motion)  
 
 #### Backend
-- Node.js & Express.js advanced concepts  
+- Node.js & Express.js advanced concepts
 - REST API & GraphQL design  
 - MongoDB & Mongoose advanced queries  
 - Firebase & serverless architecture  
