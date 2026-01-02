@@ -73,21 +73,16 @@ I enjoy turning ideas into real-world applications and continuously sharpening m
 - Authentication & Authorization best practices (JWT, OAuth)
 
 ### 🚀 Featured Projects
-- **Role-Based Dashboard** – React, Redux, Tailwind, dynamic sidebar & access control  
-- **Expense Tracker App** – React → Redux migration, CRUD, analytics  
-- **Auth System** – JWT authentication, role-based authorization, MongoDB  
-- **Production Management App** – MERN stack, admin & manager workflows  
+- **Website** – Next.js, Redux & RTK Query, Tailwind, Ant Design, responsive design, Login, Signup
+- **Role-Based Admin Dashboard** – React, Redux & RTK Query, Tailwind, dynamic sidebar & access control
+ **Auth System** – JWT authentication, role-based authorization, MongoDB
 
-### 💬 Ask Me About
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) 
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) 
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) 
+  ### 🚀 Featured Projects
+
+- **Website** – Built with Next.js, Redux Toolkit & RTK Query, Tailwind CSS, Ant Design. Includes fully responsive UI, authentication (Login & Signup), and optimized state management.
+- **Role-Based Admin Dashboard** – React-based dashboard using Redux Toolkit & RTK Query, Tailwind CSS, dynamic sidebar navigation, and role-based access control.
+- **Authentication System** – Secure backend authentication system with JWT, role-based authorization, and MongoDB for user management.
+
 
 ### 📫 How to Reach Me
 📧 **Email:** nizam.shejan11@gmail.com  
