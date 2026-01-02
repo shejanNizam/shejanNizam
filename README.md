@@ -27,6 +27,8 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 ### Tools & Platforms
@@ -56,10 +58,22 @@ I enjoy turning ideas into real-world applications and continuously sharpening m
 
 
 ## 🌱 Currently Improving
-- Advanced React patterns  
-- Redux Toolkit & state architecture  
-- Next.js (App Router & performance)  
+
+### Frontend
+- Advanced React patterns & performance optimization  
+- Redux Toolkit & scalable state architecture  
+- Next.js (App Router, SSR/SSG, and performance)  
 - TypeScript best practices  
+- UI Libraries: Ant Design, Material-UI, Shadcn/UI, Framer Motion  
+
+### Backend
+- Node.js & Express.js advanced concepts  
+- REST API & GraphQL design  
+- MongoDB & Mongoose advanced queries  
+- Firebase & serverless architecture  
+- Stripe & secure payment integration  
+- Authentication & Authorization best practices (JWT, OAuth)
+
 
 
 ## 🚀 Featured Projects
