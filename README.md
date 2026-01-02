@@ -1,7 +1,11 @@
-<h1>
+<h2 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   Hey! Nice to see you.
-</h1>
+</h2>
+
+### 👋 Hi there, I'm **Nizam Uddin (Shejan)**
+#### MERN Stack Developer  
+![](https://komarev.com/ghpvc/?username=shejanNizam)
 
 ## 🛠 Tech Stack
 
@@ -41,9 +45,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### 👋 Hi there, I'm **Nizam Uddin (Shejan)**
-#### MERN Stack Developer  
-![](https://komarev.com/ghpvc/?username=shejanNizam)
 
 As a **Full Stack (MERN) Developer** I design and develop modern, scalable, and user-friendly web applications that integrate seamlessly with backend services. 
 
