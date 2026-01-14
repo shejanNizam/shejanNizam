@@ -81,4 +81,4 @@ I have **1+ years of professional frontend experience** with strong hands-on bac
 
 ### 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=shejanNizam&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shejanNizam&layout=compact&theme=tokyonight)
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=shejanNizam&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="295">
