@@ -80,7 +80,6 @@ I have **1+ years of professional frontend experience** with strong hands-on bac
 
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=shejanNizam&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shejanNizam&show_icons=true&locale=en&layout=compact" alt="shejanNizam" /></p>
 
