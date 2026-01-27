@@ -84,11 +84,5 @@ I have **1+ years of professional frontend experience** with strong hands-on bac
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shejanNizam&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shejanNizam&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shejanNizam&theme=radical" alt="GitHub Streak"/>
 </div>
 
-### 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shejanNizam&show_icons=true&locale=en&layout=compact" alt="shejanNizam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shejanNizam&show_icons=true&locale=en" alt="shejanNizam" /></p>
