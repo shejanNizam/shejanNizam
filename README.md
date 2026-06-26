@@ -2,7 +2,7 @@
   👋 Hi there, I'm Nizam Uddin (Shejan)
 </h2>
 
-### Full Stack(MERN) Developer  ![](https://komarev.com/ghpvc/?username=shejanNizam)
+### Full Stack Developer | MERN Stack  ![](https://komarev.com/ghpvc/?username=shejanNizam)
 
   ### 🛠 Tech Stack
 #### Frontend
