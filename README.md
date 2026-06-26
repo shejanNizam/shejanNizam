@@ -17,6 +17,7 @@
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![EmailJS](https://img.shields.io/badge/EmailJS-FF6C37?style=for-the-badge&logo=emailjs&logoColor=white)
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
