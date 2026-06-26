@@ -50,7 +50,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 
-As a **Full Stack (MERN) Developer** I design and develop modern, scalable, and user-friendly web applications that integrate seamlessly with backend services. 
+As a **Full Stack Developer** I design and develop modern, scalable, and user-friendly web applications that integrate seamlessly with backend services. 
 
 I have **1+ years of professional frontend experience** with strong hands-on backend development, using Javascript, Typescript, React.js, Next.js, Tailwindcss, Ant Design, Shadcn, Framer Motion, Node.js, Express.js, MongoDB, Mongoose, Firebase, Stripe to build scalable and efficient solutions.I enjoy turning ideas into real-world applications and continuously sharpening my problem-solving skills.
 
